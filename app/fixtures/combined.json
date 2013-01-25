@@ -1,0 +1,2060 @@
+[
+  {
+    "created_at": "Fri Jan 25 13:17:16 +0000 2013",
+    "id": 294796076379144200,
+    "id_str": "294796076379144193",
+    "text": "Training with @bodybyhannah. (@ Hype Gym) http://t.co/mcXN2y6u",
+    "source": "<a href=\"http://foursquare.com\" rel=\"nofollow\">foursquare</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 61133,
+      "id_str": "61133",
+      "name": "Jeffrey Zeldman",
+      "screen_name": "zeldman",
+      "location": "New York, NY",
+      "description": "Founder, Happy Cog™ studios. Author, Designing With Web Standards. Publisher, A List Apart, A Book Apart. Co-founder, An Event Apart. Host, Big Web Show. ",
+      "url": "http://www.zeldman.com/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.zeldman.com/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 298724,
+      "friends_count": 1780,
+      "listed_count": 9245,
+      "created_at": "Tue Dec 12 17:11:41 +0000 2006",
+      "favourites_count": 17697,
+      "utc_offset": -18000,
+      "time_zone": "Eastern Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 28469,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/668422421/92c825dcac4081c34500cf2109158de9.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/668422421/92c825dcac4081c34500cf2109158de9.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2445472230/j7zhz338m2zkyf9aq11p_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2445472230/j7zhz338m2zkyf9aq11p_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/61133/1355377480",
+      "profile_link_color": "CC0033",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FF6600",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.74051252,
+        -73.97901132
+      ]
+    },
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -73.97901132,
+        40.74051252
+      ]
+    },
+    "place": {
+      "id": "20296a65277f3cf4",
+      "url": "https://api.twitter.com/1.1/geo/id/20296a65277f3cf4.json",
+      "place_type": "poi",
+      "name": "Hype Gym",
+      "full_name": "Hype Gym, New York",
+      "country_code": "US",
+      "country": "United States",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -73.979219,
+              40.740077
+            ],
+            [
+              -73.979219,
+              40.740077
+            ],
+            [
+              -73.979219,
+              40.740077
+            ],
+            [
+              -73.979219,
+              40.740077
+            ]
+          ]
+        ]
+      },
+      "attributes": {
+        "street_address": "480 2nd Ave"
+      }
+    },
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/mcXN2y6u",
+          "expanded_url": "http://4sq.com/10S6uTW",
+          "display_url": "4sq.com/10S6uTW",
+          "indices": [
+            42,
+            62
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "BodyByHannah",
+          "name": "Hannah Davis",
+          "id": 145218957,
+          "id_str": "145218957",
+          "indices": [
+            14,
+            27
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:16:32 +0000 2013",
+    "id": 294795888122023940,
+    "id_str": "294795888122023936",
+    "text": "straya day http://t.co/IN39JsOi",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8137622,
+      "id_str": "8137622",
+      "name": "Chris",
+      "screen_name": "soapu",
+      "location": "Sydney, Australia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 121,
+      "friends_count": 163,
+      "listed_count": 7,
+      "created_at": "Sun Aug 12 09:57:26 +0000 2007",
+      "favourites_count": 16,
+      "utc_offset": 36000,
+      "time_zone": "Sydney",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2926,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/914565194/Photo-0035_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/914565194/Photo-0035_normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [],
+      "media": [
+        {
+          "id": 294795888126218240,
+          "id_str": "294795888126218240",
+          "indices": [
+            11,
+            31
+          ],
+          "media_url": "http://pbs.twimg.com/media/BBdTTGECUAADfXH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BBdTTGECUAADfXH.jpg",
+          "url": "http://t.co/IN39JsOi",
+          "display_url": "pic.twitter.com/IN39JsOi",
+          "expanded_url": "http://twitter.com/soapu/status/294795888122023936/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:16:18 +0000 2013",
+    "id": 294795831796715500,
+    "id_str": "294795831796715520",
+    "text": "And I somehow maintain my 100% win rate on Ahri. Don't even ask...",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 47885613,
+      "id_str": "47885613",
+      "name": "Jordan Caroline",
+      "screen_name": "Danacyrus",
+      "location": "Brisbane, Australia",
+      "description": "Hi I play LoL. I want to work towards improving and increasing the Australian LoL Community, and getting them on the competitive map! ",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26,
+      "friends_count": 47,
+      "listed_count": 4,
+      "created_at": "Wed Jun 17 07:09:31 +0000 2009",
+      "favourites_count": 45,
+      "utc_offset": 36000,
+      "time_zone": "Brisbane",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1130,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3111291511/fc14f68fd05dee109b603799ceaa7606_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3111291511/fc14f68fd05dee109b603799ceaa7606_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:16:17 +0000 2013",
+    "id": 294795830962053100,
+    "id_str": "294795830962053120",
+    "text": "Lamb on the barbie, Mango Salad, Chicken skewers and lots of alcohol....hope everyone enjoyed the feast.",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 9962482,
+      "id_str": "9962482",
+      "name": "Jonathan Clarke",
+      "screen_name": "beilabs",
+      "location": "Sydney",
+      "description": "Global wanderer, writer of ye ol' code, proud to be Irish",
+      "url": "http://www.beilabs.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.beilabs.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 671,
+      "friends_count": 702,
+      "listed_count": 35,
+      "created_at": "Mon Nov 05 11:10:56 +0000 2007",
+      "favourites_count": 12,
+      "utc_offset": 36000,
+      "time_zone": "Sydney",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5288,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1184925654/DSC_7658_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1184925654/DSC_7658_normal.jpg",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "181A1E",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:12:57 +0000 2013",
+    "id": 294794989211381760,
+    "id_str": "294794989211381761",
+    "text": "Goes to show that a little positive energy can conquer even a 0/21/2 Garen. That and a few awesome plays. #LeagueofLegends",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 47885613,
+      "id_str": "47885613",
+      "name": "Jordan Caroline",
+      "screen_name": "Danacyrus",
+      "location": "Brisbane, Australia",
+      "description": "Hi I play LoL. I want to work towards improving and increasing the Australian LoL Community, and getting them on the competitive map! ",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26,
+      "friends_count": 47,
+      "listed_count": 4,
+      "created_at": "Wed Jun 17 07:09:31 +0000 2009",
+      "favourites_count": 45,
+      "utc_offset": 36000,
+      "time_zone": "Brisbane",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1130,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3111291511/fc14f68fd05dee109b603799ceaa7606_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3111291511/fc14f68fd05dee109b603799ceaa7606_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "LeagueofLegends",
+          "indices": [
+            106,
+            122
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:12:23 +0000 2013",
+    "id": 294794848114966500,
+    "id_str": "294794848114966528",
+    "text": "Grammar badness improves password security. http://t.co/xoLsNDhy",
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 777766650,
+      "id_str": "777766650",
+      "name": "Juna Salviati",
+      "screen_name": "JunaSalviati",
+      "location": "",
+      "description": "Software engineer, ideas activist. Proud owner of a Commodore64.",
+      "url": "http://www.digitalwaters.net",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.digitalwaters.net",
+              "expanded_url": null,
+              "indices": [
+                0,
+                28
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 242,
+      "friends_count": 624,
+      "listed_count": 2,
+      "created_at": "Fri Aug 24 09:10:54 +0000 2012",
+      "favourites_count": 245,
+      "utc_offset": 3600,
+      "time_zone": "Rome",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 793,
+      "lang": "it",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "709397",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/643234698/i5eyqm1hn9ax3p8g2usn.jpeg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/643234698/i5eyqm1hn9ax3p8g2usn.jpeg",
+      "profile_background_tile": true,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3018257134/221a37a80eb609205125a77a95fe949e_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3018257134/221a37a80eb609205125a77a95fe949e_normal.jpeg",
+      "profile_link_color": "367889",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/xoLsNDhy",
+          "expanded_url": "http://arstechnica.com/security/2013/01/grammar-badness-makes-cracking-harder-the-long-password/",
+          "display_url": "arstechnica.com/security/2013/…",
+          "indices": [
+            44,
+            64
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:11:10 +0000 2013",
+    "id": 294794543587553300,
+    "id_str": "294794543587553281",
+    "text": "Did you know you can choose not to be racist on Australia day?",
+    "source": "<a href=\"http://twicca.r246.jp/\" rel=\"nofollow\">twicca</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8845232,
+      "id_str": "8845232",
+      "name": "Paul Fenwick",
+      "screen_name": "pjf",
+      "location": "Melbourne, Australia",
+      "description": "Adventuretarian. Enjoys Perl, social hacking, mycology, scuba diving, coffee, cycling, FOSS, meeting new people, and talking like a pirate. World famous in NZ.",
+      "url": "http://facebook.com/paul.fenwick",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://facebook.com/paul.fenwick",
+              "expanded_url": null,
+              "indices": [
+                0,
+                32
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1752,
+      "friends_count": 1195,
+      "listed_count": 167,
+      "created_at": "Thu Sep 13 01:59:14 +0000 2007",
+      "favourites_count": 47,
+      "utc_offset": 36000,
+      "time_zone": "Melbourne",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 7638,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/978153501/861359953_9zGCp-XL_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/978153501/861359953_9zGCp-XL_normal.jpg",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 2,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:09:51 +0000 2013",
+    "id": 294794208672358400,
+    "id_str": "294794208672358400",
+    "text": "Greek police break up train workers sit-in http://t.co/hHqJVDXa",
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4970411,
+      "id_str": "4970411",
+      "name": "Al Jazeera English",
+      "screen_name": "AJEnglish",
+      "location": "Doha, Qatar",
+      "description": "Al Jazeera English, the 24-hour English-language news and current affairs channel, headquartered in Doha, Qatar. Follow @AJELive for breaking news alerts.\r\n\r\n",
+      "url": "http://aljazeera.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://aljazeera.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1560328,
+      "friends_count": 152,
+      "listed_count": 36801,
+      "created_at": "Tue Apr 17 08:23:08 +0000 2007",
+      "favourites_count": 3,
+      "utc_offset": 10800,
+      "time_zone": "Riyadh",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 81601,
+      "lang": "en",
+      "contributors_enabled": true,
+      "is_translator": false,
+      "profile_background_color": "A6D4E0",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/414255607/TWITTER_BACKGROUND_1040x1040.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/414255607/TWITTER_BACKGROUND_1040x1040.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1898373750/image001_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1898373750/image001_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/brand_banners/AJEnglish/1328091249/live",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "DDDDDD",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 13,
+    "entities": {
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/hHqJVDXa",
+          "expanded_url": "http://aje.me/XEOsxL",
+          "display_url": "aje.me/XEOsxL",
+          "indices": [
+            43,
+            63
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:07:39 +0000 2013",
+    "id": 294793658723622900,
+    "id_str": "294793658723622913",
+    "text": "@TypeDom ignorance is strength.",
+    "source": "<a href=\"http://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": 294793448588980200,
+    "in_reply_to_status_id_str": "294793448588980225",
+    "in_reply_to_user_id": 21065841,
+    "in_reply_to_user_id_str": "21065841",
+    "in_reply_to_screen_name": "TypeDom",
+    "user": {
+      "id": 8137622,
+      "id_str": "8137622",
+      "name": "Chris",
+      "screen_name": "soapu",
+      "location": "Sydney, Australia",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 121,
+      "friends_count": 163,
+      "listed_count": 7,
+      "created_at": "Sun Aug 12 09:57:26 +0000 2007",
+      "favourites_count": 16,
+      "utc_offset": 36000,
+      "time_zone": "Sydney",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2926,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/914565194/Photo-0035_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/914565194/Photo-0035_normal.jpg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "TypeDom",
+          "name": "Dominic Argente",
+          "id": 21065841,
+          "id_str": "21065841",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:06:49 +0000 2013",
+    "id": 294793448588980200,
+    "id_str": "294793448588980225",
+    "text": "\"We've always been at war with SUanime and AnimeUNSW is our ally.\" &lt;- If only you people knew...if only...",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 21065841,
+      "id_str": "21065841",
+      "name": "Dominic Argente",
+      "screen_name": "TypeDom",
+      "location": "",
+      "description": "",
+      "url": "http://typedom.net",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://typedom.net",
+              "expanded_url": null,
+              "indices": [
+                0,
+                18
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 185,
+      "friends_count": 233,
+      "listed_count": 16,
+      "created_at": "Tue Feb 17 05:03:50 +0000 2009",
+      "favourites_count": 38,
+      "utc_offset": 36000,
+      "time_zone": "Sydney",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6348,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1448520995/269671_10150316124961095_569331094_9468968_5364305_n_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1448520995/269671_10150316124961095_569331094_9468968_5364305_n_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:04:56 +0000 2013",
+    "id": 294792974687162400,
+    "id_str": "294792974687162368",
+    "text": "Welke jQuery plugin gebruiken jullie om elementen fixed te maken afhankelijk van scrollPos? @decthomas @mylittletony",
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 179987314,
+      "id_str": "179987314",
+      "name": "Johan Ronsse",
+      "screen_name": "wolfr_",
+      "location": "Antwerp, Belgium",
+      "description": "Freelance webdesigner/photographer",
+      "url": "http://www.wolfslittlestore.be",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://www.wolfslittlestore.be",
+              "expanded_url": null,
+              "indices": [
+                0,
+                30
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2272,
+      "friends_count": 463,
+      "listed_count": 122,
+      "created_at": "Wed Aug 18 15:34:43 +0000 2010",
+      "favourites_count": 2711,
+      "utc_offset": 3600,
+      "time_zone": "Amsterdam",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6391,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/297536251/tw.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/297536251/tw.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2306658731/nzxj5slu3pvohueo97xt_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2306658731/nzxj5slu3pvohueo97xt_normal.jpeg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/179987314/1348603274",
+      "profile_link_color": "006BDE",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "decthomas",
+          "name": "Thomas Deceuninck",
+          "id": 19235422,
+          "id_str": "19235422",
+          "indices": [
+            92,
+            102
+          ]
+        },
+        {
+          "screen_name": "mylittletony",
+          "name": "Anthony Ringoet",
+          "id": 15116329,
+          "id_str": "15116329",
+          "indices": [
+            103,
+            116
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:04:35 +0000 2013",
+    "id": 294792885272997900,
+    "id_str": "294792885272997888",
+    "text": "Oh my god this reading is killing me. \"The work of art in the age of mechanical reproduction\". I've read 5 pages in an hour.",
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 240062525,
+      "id_str": "240062525",
+      "name": "Simon Baldwin",
+      "screen_name": "baldwinsh",
+      "location": "Singapore via Australia",
+      "description": "Another Baldwin brother, studying at the Yong Siew Toh Conservatory of Music, Singapore.",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 215,
+      "friends_count": 968,
+      "listed_count": 3,
+      "created_at": "Wed Jan 19 02:21:58 +0000 2011",
+      "favourites_count": 265,
+      "utc_offset": -32400,
+      "time_zone": "Alaska",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4299,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1291564357/23710_379808458328_795418328_3408730_7130594_n_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1291564357/23710_379808458328_795418328_3408730_7130594_n_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:02:39 +0000 2013",
+    "id": 294792400440799200,
+    "id_str": "294792400440799233",
+    "text": "We've got some #uksnow in Glasgow now. 2/10. I ain't lying, but neither is it.",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 50274209,
+      "id_str": "50274209",
+      "name": "Conor McBride",
+      "screen_name": "pigworker",
+      "location": "Glasgow",
+      "description": "'What am I on?', you ask, but what about you?\r\nI'm on the ground, but you're on a sock on a shoe.",
+      "url": "http://strictlypositive.org",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://strictlypositive.org",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1008,
+      "friends_count": 671,
+      "listed_count": 74,
+      "created_at": "Wed Jun 24 10:53:57 +0000 2009",
+      "favourites_count": 7,
+      "utc_offset": 0,
+      "time_zone": "Edinburgh",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 13382,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/2842157646/01d31a4fd6cca314f0f1a78852e61fe1_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/2842157646/01d31a4fd6cca314f0f1a78852e61fe1_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "uksnow",
+          "indices": [
+            15,
+            22
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 13:02:10 +0000 2013",
+    "id": 294792275169509400,
+    "id_str": "294792275169509376",
+    "text": "How real a threat is #cybercrimes to individuals, corporations &amp; governments? Watch experts discuss on @AJInsideStory http://t.co/bqLewVQs",
+    "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 4970411,
+      "id_str": "4970411",
+      "name": "Al Jazeera English",
+      "screen_name": "AJEnglish",
+      "location": "Doha, Qatar",
+      "description": "Al Jazeera English, the 24-hour English-language news and current affairs channel, headquartered in Doha, Qatar. Follow @AJELive for breaking news alerts.\r\n\r\n",
+      "url": "http://aljazeera.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://aljazeera.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                20
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1560328,
+      "friends_count": 152,
+      "listed_count": 36801,
+      "created_at": "Tue Apr 17 08:23:08 +0000 2007",
+      "favourites_count": 3,
+      "utc_offset": 10800,
+      "time_zone": "Riyadh",
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 81601,
+      "lang": "en",
+      "contributors_enabled": true,
+      "is_translator": false,
+      "profile_background_color": "A6D4E0",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/414255607/TWITTER_BACKGROUND_1040x1040.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/414255607/TWITTER_BACKGROUND_1040x1040.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1898373750/image001_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1898373750/image001_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/brand_banners/AJEnglish/1328091249/live",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "DDDDDD",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 16,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "cybercrimes",
+          "indices": [
+            21,
+            33
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/bqLewVQs",
+          "expanded_url": "http://aje.me/V3dVCC",
+          "display_url": "aje.me/V3dVCC",
+          "indices": [
+            122,
+            142
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "screen_name": "AJInsideStory",
+          "name": "Inside Story",
+          "id": 537099235,
+          "id_str": "537099235",
+          "indices": [
+            107,
+            121
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Fri Jan 25 12:58:51 +0000 2013",
+    "id": 294791443837497340,
+    "id_str": "294791443837497346",
+    "text": "Fed :(",
+    "source": "<a href=\"http://www.tweetdeck.com\" rel=\"nofollow\">TweetDeck</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14596644,
+      "id_str": "14596644",
+      "name": "shenki",
+      "screen_name": "shenki",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 283,
+      "friends_count": 1094,
+      "listed_count": 16,
+      "created_at": "Wed Apr 30 05:34:08 +0000 2008",
+      "favourites_count": 39,
+      "utc_offset": 34200,
+      "time_zone": "Adelaide",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3110,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/53529005/hackergotchi-192_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/53529005/hackergotchi-192_normal.png",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 12:56:28 +0000 2013",
+    "id": 294790841745162240,
+    "id_str": "294790841745162240",
+    "text": "RT @mraleph: HalfLife 3 plot leaked via @bradleymeck \"JS will eat all other languages, become the new C and then devolve back into C for ...",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 34270684,
+      "id_str": "34270684",
+      "name": "Brian McKenna",
+      "screen_name": "puffnfresh",
+      "location": "Boulder, Colorado",
+      "description": "Talk to me about programming languages. Working on big data for @PrecogIO. Working on @roylangjs for myself. The parrot is real. λ→",
+      "url": "http://brianmckenna.org/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://brianmckenna.org/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1941,
+      "friends_count": 1160,
+      "listed_count": 106,
+      "created_at": "Wed Apr 22 13:29:08 +0000 2009",
+      "favourites_count": 21,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5221,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/10255495/brian.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/10255495/brian.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/34270684/1348045877",
+      "profile_link_color": "2277CC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "111111",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 25 10:46:27 +0000 2013",
+      "id": 294758124060020740,
+      "id_str": "294758124060020736",
+      "text": "HalfLife 3 plot leaked via @bradleymeck \"JS will eat all other languages, become the new C and then devolve back into C for speed\"",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": 294755418226438140,
+      "in_reply_to_status_id_str": "294755418226438145",
+      "in_reply_to_user_id": 15338477,
+      "in_reply_to_user_id_str": "15338477",
+      "in_reply_to_screen_name": "bradleymeck",
+      "user": {
+        "id": 53010195,
+        "id_str": "53010195",
+        "name": "Vyacheslav Egorov",
+        "screen_name": "mraleph",
+        "location": "Aarhus",
+        "description": "crazy Russian compiler engineer.",
+        "url": "http://mrale.ph",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://mrale.ph",
+                "expanded_url": null,
+                "indices": [
+                  0,
+                  15
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1651,
+        "friends_count": 336,
+        "listed_count": 71,
+        "created_at": "Thu Jul 02 08:31:06 +0000 2009",
+        "favourites_count": 16,
+        "utc_offset": 3600,
+        "time_zone": "Copenhagen",
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 3734,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://a0.twimg.com/profile_background_images/57064737/000kp2r7xx.png",
+        "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/57064737/000kp2r7xx.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://a0.twimg.com/profile_images/2879665520/82a2745c76c84ef247ffa20e41ae80e1_normal.png",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/2879665520/82a2745c76c84ef247ffa20e41ae80e1_normal.png",
+        "profile_banner_url": "https://si0.twimg.com/profile_banners/53010195/1353545560",
+        "profile_link_color": "088253",
+        "profile_sidebar_border_color": "D3D2CF",
+        "profile_sidebar_fill_color": "E3E2DE",
+        "profile_text_color": "634047",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 5,
+      "entities": {
+        "hashtags": [],
+        "urls": [],
+        "user_mentions": [
+          {
+            "screen_name": "bradleymeck",
+            "name": "Bradley Meck",
+            "id": 15338477,
+            "id_str": "15338477",
+            "indices": [
+              27,
+              39
+            ]
+          }
+        ]
+      },
+      "favorited": false,
+      "retweeted": false
+    },
+    "retweet_count": 5,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "mraleph",
+          "name": "Vyacheslav Egorov",
+          "id": 53010195,
+          "id_str": "53010195",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "screen_name": "bradleymeck",
+          "name": "Bradley Meck",
+          "id": 15338477,
+          "id_str": "15338477",
+          "indices": [
+            40,
+            52
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 12:55:51 +0000 2013",
+    "id": 294790687256363000,
+    "id_str": "294790687256363009",
+    "text": "How are we making a comeback with a 0/21/2 Garen??? #Leagueoflegends",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 47885613,
+      "id_str": "47885613",
+      "name": "Jordan Caroline",
+      "screen_name": "Danacyrus",
+      "location": "Brisbane, Australia",
+      "description": "Hi I play LoL. I want to work towards improving and increasing the Australian LoL Community, and getting them on the competitive map! ",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26,
+      "friends_count": 47,
+      "listed_count": 4,
+      "created_at": "Wed Jun 17 07:09:31 +0000 2009",
+      "favourites_count": 45,
+      "utc_offset": 36000,
+      "time_zone": "Brisbane",
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1130,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://a0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/3111291511/fc14f68fd05dee109b603799ceaa7606_normal.jpeg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/3111291511/fc14f68fd05dee109b603799ceaa7606_normal.jpeg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "Leagueoflegends",
+          "indices": [
+            52,
+            68
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 12:52:38 +0000 2013",
+    "id": 294789877420154900,
+    "id_str": "294789877420154880",
+    "text": "RT @raichoo: 119K down to 37K #googleclosure does some pretty heavy compression on #javascript code. #idris",
+    "source": "web",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 34270684,
+      "id_str": "34270684",
+      "name": "Brian McKenna",
+      "screen_name": "puffnfresh",
+      "location": "Boulder, Colorado",
+      "description": "Talk to me about programming languages. Working on big data for @PrecogIO. Working on @roylangjs for myself. The parrot is real. λ→",
+      "url": "http://brianmckenna.org/",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://brianmckenna.org/",
+              "expanded_url": null,
+              "indices": [
+                0,
+                24
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1941,
+      "friends_count": 1160,
+      "listed_count": 106,
+      "created_at": "Wed Apr 22 13:29:08 +0000 2009",
+      "favourites_count": 21,
+      "utc_offset": -25200,
+      "time_zone": "Mountain Time (US & Canada)",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5221,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/10255495/brian.png",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/10255495/brian.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1313081307/WithMonkey2_normal.jpg",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/34270684/1348045877",
+      "profile_link_color": "2277CC",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "111111",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweeted_status": {
+      "created_at": "Fri Jan 25 11:47:02 +0000 2013",
+      "id": 294773369805627400,
+      "id_str": "294773369805627393",
+      "text": "119K down to 37K #googleclosure does some pretty heavy compression on #javascript code. #idris",
+      "source": "web",
+      "truncated": false,
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 32865583,
+        "id_str": "32865583",
+        "name": "raichoo",
+        "screen_name": "raichoo",
+        "location": "Bielefeld",
+        "description": "Hacker, FP Enthusiast, Antitheist, λpunk, Mathfan. #haskell #idris #agda #scala. All views expressed here are my own. RT /= endorsement",
+        "url": "http://raichoo.blogspot.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "http://raichoo.blogspot.com",
+                "expanded_url": null,
+                "indices": [
+                  0,
+                  27
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 544,
+        "friends_count": 98,
+        "listed_count": 46,
+        "created_at": "Sat Apr 18 12:17:57 +0000 2009",
+        "favourites_count": 92,
+        "utc_offset": 3600,
+        "time_zone": "Berlin",
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 11587,
+        "lang": "en",
+        "contributors_enabled": false,
+        "is_translator": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://a0.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://si0.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://a0.twimg.com/profile_images/2227439864/Foto_am_30-06-2010_um_16.53__2_normal.jpg",
+        "profile_image_url_https": "https://si0.twimg.com/profile_images/2227439864/Foto_am_30-06-2010_um_16.53__2_normal.jpg",
+        "profile_banner_url": "https://si0.twimg.com/profile_banners/32865583/1358374939",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": null,
+        "follow_request_sent": null,
+        "notifications": null
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "retweet_count": 1,
+      "entities": {
+        "hashtags": [
+          {
+            "text": "googleclosure",
+            "indices": [
+              17,
+              31
+            ]
+          },
+          {
+            "text": "javascript",
+            "indices": [
+              70,
+              81
+            ]
+          },
+          {
+            "text": "idris",
+            "indices": [
+              88,
+              94
+            ]
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "favorited": false,
+      "retweeted": false
+    },
+    "retweet_count": 1,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "googleclosure",
+          "indices": [
+            30,
+            44
+          ]
+        },
+        {
+          "text": "javascript",
+          "indices": [
+            83,
+            94
+          ]
+        },
+        {
+          "text": "idris",
+          "indices": [
+            101,
+            107
+          ]
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "raichoo",
+          "name": "raichoo",
+          "id": 32865583,
+          "id_str": "32865583",
+          "indices": [
+            3,
+            11
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  },
+  {
+    "created_at": "Fri Jan 25 12:52:18 +0000 2013",
+    "id": 294789791076208640,
+    "id_str": "294789791076208640",
+    "text": "Last round of poker and @Wernah convinced me to go all in before even shuffling, let alone dealing. I got lucky. http://t.co/XA8WstDG",
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iOS</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5523,
+      "id_str": "5523",
+      "name": "Pat Allan",
+      "screen_name": "pat",
+      "location": "Melbourne, AU",
+      "description": "@trampolineday founder & Ruby developer with passion for the internet, music, politics, comedy, bringing people together, and making a difference. And pancakes.",
+      "url": "http://freelancing-gods.com",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://freelancing-gods.com",
+              "expanded_url": null,
+              "indices": [
+                0,
+                27
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3301,
+      "friends_count": 674,
+      "listed_count": 324,
+      "created_at": "Fri Sep 08 02:46:02 +0000 2006",
+      "favourites_count": 27,
+      "utc_offset": 36000,
+      "time_zone": "Melbourne",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 17848,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "2D2D2D",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/1752482/mummy-for-twitter.gif",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/1752482/mummy-for-twitter.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/1745295975/me-sketched_normal.png",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/1745295975/me-sketched_normal.png",
+      "profile_banner_url": "https://si0.twimg.com/profile_banners/5523/1347987507",
+      "profile_link_color": "960303",
+      "profile_sidebar_border_color": "F9C70B",
+      "profile_sidebar_fill_color": "F5F1D6",
+      "profile_text_color": "4B4026",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "Wernah",
+          "name": "Daniel Wearne",
+          "id": 28459102,
+          "id_str": "28459102",
+          "indices": [
+            24,
+            31
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 294789791084597250,
+          "id_str": "294789791084597250",
+          "indices": [
+            113,
+            133
+          ],
+          "media_url": "http://pbs.twimg.com/media/BBdNwM0CUAIfqgS.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/BBdNwM0CUAIfqgS.jpg",
+          "url": "http://t.co/XA8WstDG",
+          "display_url": "pic.twitter.com/XA8WstDG",
+          "expanded_url": "http://twitter.com/pat/status/294789791076208640/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 600,
+              "h": 450,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 768,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 340,
+              "h": 255,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false,
+    "possibly_sensitive": false
+  },
+  {
+    "created_at": "Fri Jan 25 12:50:57 +0000 2013",
+    "id": 294789453120155650,
+    "id_str": "294789453120155648",
+    "text": "@shiftkey SURE IS!",
+    "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+    "truncated": false,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": 14671135,
+    "in_reply_to_user_id_str": "14671135",
+    "in_reply_to_screen_name": "shiftkey",
+    "user": {
+      "id": 23283591,
+      "id_str": "23283591",
+      "name": "Steven Pham",
+      "screen_name": "t8steve",
+      "location": "",
+      "description": "''A man of excellent moral character! It's people like him I died for!'' - Jesus Christ",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 122,
+      "friends_count": 127,
+      "listed_count": 7,
+      "created_at": "Sun Mar 08 06:18:13 +0000 2009",
+      "favourites_count": 5,
+      "utc_offset": 36000,
+      "time_zone": "Sydney",
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7561,
+      "lang": "en",
+      "contributors_enabled": false,
+      "is_translator": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://a0.twimg.com/profile_background_images/41942430/Booyakasha_1920x1200.jpg",
+      "profile_background_image_url_https": "https://si0.twimg.com/profile_background_images/41942430/Booyakasha_1920x1200.jpg",
+      "profile_background_tile": false,
+      "profile_image_url": "http://a0.twimg.com/profile_images/184200337/twitpic2_normal.jpg",
+      "profile_image_url_https": "https://si0.twimg.com/profile_images/184200337/twitpic2_normal.jpg",
+      "profile_link_color": "423A87",
+      "profile_sidebar_border_color": "86A4A6",
+      "profile_sidebar_fill_color": "A5B3ED",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": null,
+      "notifications": null
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "retweet_count": 0,
+    "entities": {
+      "hashtags": [],
+      "urls": [],
+      "user_mentions": [
+        {
+          "screen_name": "shiftkey",
+          "name": "Brendan Forster",
+          "id": 14671135,
+          "id_str": "14671135",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ]
+    },
+    "favorited": false,
+    "retweeted": false
+  }
+]
